@@ -1,6 +1,6 @@
 # My Portfolio
 
-Hi! I'm Tejaswini, a BCA student interested in web development and technology.
+Hi! I'm Tejashwini, a BCA student interested in web development and technology.
 
 ## About Me
 - BCA Student
