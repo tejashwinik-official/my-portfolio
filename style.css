@@ -198,3 +198,26 @@ footer {
     display: inline-block;
     margin: 15px 0;
 }
+
+#education {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.education-item {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 12px;
+    background: #f4f6fa;
+}
+
+.education-item h3 {
+    color: #243b64;
+    margin-bottom: 12px;
+}
+
+.education-item p {
+    margin: 8px 0;
+    color: #555;
+}
